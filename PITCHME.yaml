@@ -1,5 +1,5 @@
 background: bg/navy.png
 transition: slide
 theme: black
-footnote: "© 2017 YourName All Rights Reserved."
+footnote: "TOCfE Bootcamp 2017/10/28 Logic Branch"
 theme-override: assets/PITCHME.css
