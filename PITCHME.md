@@ -30,8 +30,13 @@
 お題から主要な出来事を付箋に書き出し、  
 関係のありそうな付箋をつなげてみましょう
 
----?image=assets/images/1-1_first.jpg&size=auto 80%
----?image=assets/images/1-2_first.jpg&size=auto 80%
+---
+
+![](assets/images/1-1_first.jpg)
+
+---
+
+![](assets/images/1-2_first.jpg)
 
 ---
 
@@ -42,7 +47,9 @@
 違和感のある付箋をつなぎ直して読み返してみて下さい
 
 
----?image=assets/images/2-1_second.jpg&size=auto 80%
+---
+
+![](assets/images/2-1_second.jpg)
 
 ---
 
@@ -52,7 +59,9 @@
 出来事から関係を結ぶために無理はしていませんか？  
 不足する情報を付箋に書き出してつなげてみましょう
 
----?image=assets/images/3-1_third.jpg&size=auto 80%
+---
+
+![](assets/images/3-1_third.jpg)
 
 ---
 
