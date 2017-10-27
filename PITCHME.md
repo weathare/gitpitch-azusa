@@ -22,11 +22,15 @@
 @title[おさらい:並び替えて読む]
 ### 付箋を並び替える
 
+---
+
 ![](assets/images/3_guide.jpg)
 
 ---
 
 @title[おさらい:理由]
 ### 理由を付箋に書く
+
+---
 
 ![](assets/images/4_guide.jpg)
