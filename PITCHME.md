@@ -6,31 +6,19 @@
 
 ---
 
-@title[おさらい:つなげて読む]
-### 出来事を付箋に書いてつなげて読む
+@title[デモ:つなげて読む]
+![書き出し](assets/images/1_guide.jpg)
 
 ---
 
-![](assets/images/1_guide.jpg)
+![並べ替え1](assets/images/2_guide.jpg)
 
 ---
 
-![](assets/images/2_guide.jpg)
+@title[デモ:並び替えて読む]
+![並べ替え2](assets/images/3_guide.jpg)
 
 ---
 
-@title[おさらい:並び替えて読む]
-### 付箋を並び替える
-
----
-
-![](assets/images/3_guide.jpg)
-
----
-
-@title[おさらい:理由]
-### 理由を付箋に書く
-
----
-
-![](assets/images/4_guide.jpg)
+@title[デモ:理由]
+![不足を補う](assets/images/4_guide.jpg)
